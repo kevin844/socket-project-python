@@ -1,1 +1,3 @@
-# socket-project-python1
+# socket-project-python
+
+simple client-server written in python
